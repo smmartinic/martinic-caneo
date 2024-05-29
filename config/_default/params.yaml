@@ -43,7 +43,7 @@ header:
 footer:
   block: minimal
   copyright:
-    notice: '© {year}. This work is licensed under {license}'
+    notice: 'Stephanie Martinic-Caneo © {year}. Licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
