@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S.</title>
-    <link>http://localhost:4321/</link>
-      <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:3716/</link>
+      <atom:link href="http://localhost:3716/index.xml" rel="self" type="application/rss+xml" />
     <description>S.</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/sharing.png</url>
+      <url>http://localhost:3716/media/sharing.png</url>
       <title>S.</title>
-      <link>http://localhost:4321/</link>
+      <link>http://localhost:3716/</link>
     </image>
     
     <item>
       <title>On the relationship between cyberfeminisms and datafication</title>
-      <link>http://localhost:4321/post/on-the-relationship-between-cyberfeminisms-and-datafication/</link>
+      <link>http://localhost:3716/post/on-the-relationship-between-cyberfeminisms-and-datafication/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/on-the-relationship-between-cyberfeminisms-and-datafication/</guid>
+      <guid>http://localhost:3716/post/on-the-relationship-between-cyberfeminisms-and-datafication/</guid>
       <description>&lt;p&gt;The cyberfeminist techno-utopias of the last century dreamed of a cyberspace populated by virtual identities, separate and independent of bodies, and of a non-hierarchical communication of information that would leave behind unidirectional power structures. These imaginaries are countered by the current visualization culture and the algorithmic mediation of content.&lt;/p&gt;
 &lt;p&gt;In &lt;a href=&#34;https://dl.acm.org/doi/10.5555/114772.114785&#34;&gt;&lt;em&gt;Will the Real Body Please Stand Up?&lt;/em&gt;&lt;/a&gt;, Sandy Stone imagines a state of development of virtual reality in which data can be seen, heard, and even felt. But the truth is that it was not necessary for the technology to achieve reliable three-dimensional forms of representation and science-fiction media for this to make sense. The ways in which data are seen, heard, and felt in the present are, in fact, &lt;a href=&#34;https://doi.org/10.1177/2053951717700924&#34;&gt;mundane&lt;/a&gt;. In my pocket, I always carry an artifact that, by keeping track of my tastes, geolocation, and time management, produces me as a set of data entries with which I can even negotiate, although it often offers me nothing but anxieties.&lt;/p&gt;
 &lt;p&gt;This is what José van Dijck has called &lt;a href=&#34;https://doi.org/10.24908/ss.v12i2.4776&#34;&gt;&amp;rsquo;life mining&amp;rsquo; or the datafication of everyday life&lt;/a&gt;. The mining of personal information, its transformation into marketable databases, and the profiling of users based on their online activity make it possible to generate reports on people&amp;rsquo;s actions, habits, and preferences. Together with the operation of algorithms, it is also possible to predict or modify their behavior. Although datafication is not an exclusive phenomenon of the digital era, today it is characterized by the existing technological capacity to automate the collection and analysis of highly personalized data of all kinds at an accelerated pace in order to build big data. Datafication also permeates the field of education, where the practice of permanent data collection and intensive data processing at all levels of educational systems gives rise to the use of big data to examine educational processes over time, as well as to predict outcomes and detect risks.&lt;/p&gt;
 &lt;p&gt;What can cyberfeminisms offer to studies of datafication and, more specifically, datafication of education? First, cyberfeminisms understand data practices as an extension of social life and recognize the potential of technologies in the permanent reconfiguration of various spaces, including education. Second, cyberfeminisms highlight the cybernetic character of current technologies as &lt;a href=&#34;https://doi.org/10.1177/1357034X95001003003&#34;&gt;feedback loops hooked up and responsive to its own environments&lt;/a&gt;. From a cyberfeminist framework, datafication cannot be approached except in relation to the bodies and concrete material situations with which it is entangled. That is, it positions the affective based on the forms taken by the relationships between people, technologies, and educational assemblages, and on what modes of living and feeling are made possible or not in light of this relationships.&lt;/p&gt;
-&lt;p&gt;Cyberfeminism does not have a single definition —hence I opt for the plural &amp;lsquo;cyberfeminisms&amp;rsquo;— but this does not prevent the term from serving to represent what is perhaps most relevant to critical datafication research. As a practice, cyberfeminisms offer tools for political imagination, &lt;a href=&#34;https://laboriacuboniks.net/manifesto/xenofeminism-a-politics-for-alienation&#34;&gt;advocating for the necessary assembly of techno-political interfaces that are responsive to the risks of technologies&lt;/a&gt;, which recursively merge with androcentric cultures of quantification, anticipation, and exitism.&lt;/p&gt;
+&lt;p&gt;Cyberfeminism does not have a single definition —hence I opt for the plural &amp;lsquo;cyberfeminisms&amp;rsquo;— but this does not prevent the term from serving to represent what is perhaps most relevant to critical datafication research. As a practice, cyberfeminisms offer tools for political imagination, &lt;a href=&#34;https://laboriacuboniks.net/manifesto/xenofeminism-a-politics-for-alienation&#34;&gt;advocating for the necessary assembly of techno-political interfaces that are responsive to the risks of technologies that recursively fuse with androcentric cultures&lt;/a&gt; of quantification, anticipation, and successism.&lt;/p&gt;
 </description>
     </item>
     
