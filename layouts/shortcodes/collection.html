@@ -1,0 +1,20 @@
+{{ $pages := .Site.RegularPages }}
+{{ if .Site.Params.content.filters }}
+  {{ range $key, $value := .Site.Params.content.filters }}
+    {{ if $value }}
+      {{ $pages = $pages | where $key $value }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ if .Site.Params.content.count }}
+  {{ $pages = $pages | first .Site.Params.content.count }}
+{{ end }}
+
+<div class="collection">
+  {{ range $pages }}
+    <div class="collection-item">
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p>{{ .Summary }}</p>
+    </div>
+  {{ end }}
+</div>
