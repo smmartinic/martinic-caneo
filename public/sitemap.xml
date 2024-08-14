@@ -18,7 +18,13 @@
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:4321/research/research/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:4321/publication_types/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/research/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/tags/</loc>

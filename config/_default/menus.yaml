@@ -9,4 +9,7 @@ main:
     weight: 10
   - name: Blog
     url: /post
-    weight: 11
+    weight: 20
+  - name: Research
+    url: /research
+    weight: 30
