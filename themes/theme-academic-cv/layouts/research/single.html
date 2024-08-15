@@ -1,6 +1,11 @@
 {{ define "main" }}
 <main>
   <article>
+    {{ if .Params.image }}
+    <div class="featured-image">
+      <img src="{{ .Params.image }}" alt="{{ .Title }}">
+    </div>
+    {{ end }}
     <header>
       <h1>{{ .Title }}</h1>
     </header>
