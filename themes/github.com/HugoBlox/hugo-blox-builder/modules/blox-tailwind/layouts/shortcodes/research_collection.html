@@ -1,0 +1,13 @@
+{{ $pages := where .Site.RegularPages "Section" "research" }}
+{{ if .Site.Params.content.count }}
+  {{ $pages = first .Site.Params.content.count $pages }}
+{{ end }}
+
+<div class="collection">
+  {{ range $pages }}
+    <div class="collection-item">
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p>{{ .Summary }}</p>
+    </div>
+  {{ end }}
+</div>

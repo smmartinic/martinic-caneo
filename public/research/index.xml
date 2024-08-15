@@ -1,32 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S.</title>
-    <link>http://localhost:4321/research/</link>
-      <atom:link href="http://localhost:4321/research/index.xml" rel="self" type="application/rss+xml" />
-    <description>S.</description>
+    <title>Research | S.</title>
+    <link>https://martinic-caneo.netlify.app/research/</link>
+      <atom:link href="https://martinic-caneo.netlify.app/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:4321/media/sharing.png</url>
-      <title>S.</title>
-      <link>http://localhost:4321/research/</link>
+      <url>https://martinic-caneo.netlify.app/media/sharing.png</url>
+      <title>Research</title>
+      <link>https://martinic-caneo.netlify.app/research/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:4321/research/politiktok/politiktok/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/research/politiktok/politiktok/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:4321/research/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/research/research/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
