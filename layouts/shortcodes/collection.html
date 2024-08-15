@@ -1,13 +1,6 @@
-{{ $pages := .Site.RegularPages }}
-{{ if .Site.Params.content.filters }}
-  {{ range $key, $value := .Site.Params.content.filters }}
-    {{ if $value }}
-      {{ $pages = $pages | where $key $value }}
-    {{ end }}
-  {{ end }}
-{{ end }}
+{{ $pages := where .Site.RegularPages "Type" "research" }}
 {{ if .Site.Params.content.count }}
-  {{ $pages = $pages | first .Site.Params.content.count }}
+  {{ $pages = first .Site.Params.content.count $pages }}
 {{ end }}
 
 <div class="collection">
