@@ -13,7 +13,7 @@ sections:
       title: Latest Research
       subtitle: ''
       text: Here you will find links to my research projects and published papers.
-      # Display content from the `content/post/` folder
+      # Display content from the `content/research/` folder
       filters:
         folders:
           - research

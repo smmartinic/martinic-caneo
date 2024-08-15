@@ -1,12 +1,12 @@
 ---
-title: "PoliTikTok (Research Project)"
-author: ""
-date: ""
-slug: "politiktok"
+title: PoliTikTok (Research Project)
+author: ''
+date: ''
+slug: politiktok
 categories: []
 tags: []
 image:
-  focal_point: "Top"
+  focal_point: 'Top'
 share: false
 ---
 
