@@ -42,3 +42,4 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+theme: "theme-academic-cv"
