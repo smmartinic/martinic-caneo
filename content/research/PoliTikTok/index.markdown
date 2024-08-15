@@ -1,5 +1,6 @@
 ---
 title: PoliTikTok (Research Project)
+type: single
 author: ''
 date: ''
 slug: politiktok

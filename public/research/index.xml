@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research | S.</title><link>https://martinic-caneo.netlify.app/research/</link><atom:link href="https://martinic-caneo.netlify.app/research/index.xml" rel="self" type="application/rss+xml"/><description>Research</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://martinic-caneo.netlify.app/media/sharing.png</url><title>Research</title><link>https://martinic-caneo.netlify.app/research/</link></image><item><title>PoliTikTok (Research Project)</title><link>https://martinic-caneo.netlify.app/research/politiktok/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://martinic-caneo.netlify.app/research/politiktok/</guid><description>&lt;p>&lt;a href="https://politiktok.cl/">Politiktok&lt;/a> is an interdisciplinary research team from the Pontificia Universidad Católica de Chile, funded by the National Agency for Research and Development (ANID) through the Fondecyt Initiation Project No. 11230137. We focus on analyzing how young Chileans use TikTok as a platform to express their opinions on social justice, politics, and current issues. We also focus on the affective economy of affordances and the algorithmic governance of the platform. I am a research assistant on this project.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | S.</title>
+    <link>http://localhost:1313/research/</link>
+      <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/sharing.png</url>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+    </image>
+    
+    <item>
+      <title>PoliTikTok (Research Project)</title>
+      <link>http://localhost:1313/research/politiktok/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/politiktok/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://politiktok.cl/&#34;&gt;Politiktok&lt;/a&gt; is an interdisciplinary research team from the Pontificia Universidad Católica de Chile, funded by the National Agency for Research and Development (ANID) through the Fondecyt Initiation Project No. 11230137. We focus on analyzing how young Chileans use TikTok as a platform to express their opinions on social justice, politics, and current issues. We also focus on the affective economy of affordances and the algorithmic governance of the platform. I am a research assistant on this project.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
