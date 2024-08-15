@@ -1,1 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://martinic-caneo.netlify.app/</loc><lastmod>2024-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://martinic-caneo.netlify.app/post/</loc><lastmod>2024-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://martinic-caneo.netlify.app/post/gender-based-violence-education-and-technocultures/</loc><lastmod>2024-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://martinic-caneo.netlify.app/post/on-the-relationship-between-cyberfeminisms-and-datafication/</loc><lastmod>2024-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://martinic-caneo.netlify.app/publication_types/</loc><changefreq>weekly</changefreq></url><url><loc>https://martinic-caneo.netlify.app/research/</loc><changefreq>weekly</changefreq></url><url><loc>https://martinic-caneo.netlify.app/tags/</loc><changefreq>weekly</changefreq></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:4321/</loc>
+    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/post/</loc>
+    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/post/gender-based-violence-education-and-technocultures/</loc>
+    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/post/on-the-relationship-between-cyberfeminisms-and-datafication/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publication_types/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/research/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+</urlset>
