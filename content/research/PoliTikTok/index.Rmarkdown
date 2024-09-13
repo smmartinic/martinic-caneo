@@ -1,10 +1,11 @@
 ---
 title: PoliTikTok
 show_date: false
+featured: 'images/politiktok.png'
 external_link: https://politiktok.cl/
 tags: []
 image:
   focal_point: 'Top'
   preview_only: false
 ---
-Politiktok is an interdisciplinary research team from the Pontificia Universidad Católica de Chile, funded by ANID. I'm a research assistant.
+Politiktok is an interdisciplinary research team from the Pontificia Universidad Católica de Chile, funded by ANID. I'm a research assistant here.
