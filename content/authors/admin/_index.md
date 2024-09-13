@@ -10,6 +10,7 @@ profiles:
   url: https://orcid.org/0000-0003-4555-6910
 - icon: x-twitter
   url: https://x.com/smartinicc
+  icon_pack: fab
 status:
   icon: 🦥
 superuser: true

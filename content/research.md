@@ -9,7 +9,7 @@ design:
 
 # Page sections
 sections:
-  - block: compact
+  - block: collection
     content:
       title: Latest Research
       text: Here you will find links to my research projects and published papers.
@@ -17,7 +17,7 @@ sections:
         folders:
           - research
     design:
-      view: article-grid
+      view: compact
       fill_image: false
       columns: 3
       show_date: false
