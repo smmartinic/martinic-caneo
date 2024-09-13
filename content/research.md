@@ -15,7 +15,7 @@ sections:
       text: Here you will find links to my research projects and published papers.
       filters:
         folders:
-          - project
+          - research
     design:
       view: article-grid
       fill_image: false
