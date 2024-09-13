@@ -7,4 +7,4 @@ image:
   focal_point: 'Top'
   preview_only: false
 ---
-Politiktok is an interdisciplinary research team from the Pontificia Universidad Católica de Chile, funded by ANID.
+Politiktok is an interdisciplinary research team from the Pontificia Universidad Católica de Chile, funded by ANID. I'm a research assistant.

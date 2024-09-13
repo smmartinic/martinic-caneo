@@ -18,7 +18,7 @@ sections:
           - research
     design:
       view: compact
-      fill_image: false
+      fill_image: true
       columns: 3
       show_date: false
 ---
