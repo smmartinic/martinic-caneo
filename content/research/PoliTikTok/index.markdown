@@ -1,0 +1,10 @@
+---
+title: PoliTikTok
+show_date: false
+external_link: https://politiktok.cl/
+tags: []
+image:
+  focal_point: 'Top'
+  preview_only: false
+---
+Politiktok is an interdisciplinary research team from the Pontificia Universidad Católica de Chile, funded by the National Agency for Research and Development (ANID). We focus on analyzing how young Chileans use TikTok as a platform to express their opinions on social justice, politics, and current issues. We also focus on the affective economy of affordances and the algorithmic governance of the platform. I am a research assistant on this project.
