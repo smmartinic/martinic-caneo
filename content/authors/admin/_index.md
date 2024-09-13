@@ -8,9 +8,8 @@ profiles:
   url: mailto:smmartinic@uc.cl
 - icon: academicons/orcid
   url: https://orcid.org/0000-0003-4555-6910
-- icon: twitter
+- icon: twitter-x
   url: https://x.com/smartinicc
-  icon_pack: fab
 status:
   icon: 🦥
 superuser: true
