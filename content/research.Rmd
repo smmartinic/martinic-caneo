@@ -17,7 +17,7 @@ sections:
         folders:
           - research
     design:
-      view: compact
+      view: research/card
       fill_image: false
       columns: 3
       show_date: false

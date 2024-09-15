@@ -1,7 +1,6 @@
 ---
 title: PoliTikTok
 date: null
-showDates: false
 featured: 'images/politiktok.png'
 external_link: https://politiktok.cl/
 tags: []
