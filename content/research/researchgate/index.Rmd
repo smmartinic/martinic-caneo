@@ -1,7 +1,7 @@
 ---
 title: Researchgate
 date: null
-featured: 'images/researchgate.png'
+featured: 'featured.png'
 external_link: https://www.researchgate.net/profile/Stephanie-Martinic-Caneo
 tags: []
 image:
