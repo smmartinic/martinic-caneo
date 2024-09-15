@@ -4,7 +4,7 @@ date: null
 external_link: https://www.researchgate.net/profile/Stephanie-Martinic-Caneo
 tags: []
 image:
-  focal_point: 'Top'
-  preview_only: false
+  focal_point: 'Center'
+  preview_only: true
 ---
 Link to my researchgate profile with selected research papers.
